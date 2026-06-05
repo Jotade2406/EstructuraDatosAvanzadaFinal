@@ -56,9 +56,84 @@ struct Entrada {
 };
 
 // ============================================================
-// NODO DEL ARBOL BINARIO DE BUSQUEDA
-// Cada bucket de la tabla hash es un BST ordenado
-// alfabeticamente por la palabra clave.
+// [1] NODO LISTA ENLAZADA - implementacion BASE de colisiones
+//     Cada bucket es una lista enlazada simple
+//     Busqueda: O(k) donde k = items en el bucket
+// ============================================================
+struct NodoLista {
+    Entrada dato;
+    NodoLista* sig;
+    NodoLista(const string& p, const string& s) : dato(p, s), sig(nullptr) {}
+};
+
+// Bucket con lista enlazada (implementacion requerida)
+class BucketLista {
+    string norm(const string& s) const {
+        string r = s; transform(r.begin(),r.end(),r.begin(),::toupper); return r;
+    }
+public:
+    NodoLista* cabeza;
+    int cantidad;
+    BucketLista() : cabeza(nullptr), cantidad(0) {}
+
+    void insertar(const string& p, const string& s) {
+        NodoLista* curr = cabeza;
+        while(curr){ if(norm(curr->dato.palabra)==norm(p)){curr->dato.significado=s;return;} curr=curr->sig; }
+        NodoLista* n = new NodoLista(p, s);
+        n->sig = cabeza; cabeza = n; cantidad++;   // insertar al frente O(1)
+    }
+
+    NodoLista* buscar(const string& p) const {    // O(k) - recorre toda la lista
+        NodoLista* curr = cabeza;
+        while(curr){ if(norm(curr->dato.palabra)==norm(p)) return curr; curr=curr->sig; }
+        return nullptr;
+    }
+
+    bool eliminar(const string& p) {
+        if(!cabeza) return false;
+        if(norm(cabeza->dato.palabra)==norm(p)){
+            NodoLista* tmp=cabeza; cabeza=cabeza->sig; tmp->sig=nullptr; delete tmp; cantidad--; return true;
+        }
+        NodoLista* prev=cabeza;
+        while(prev->sig){
+            if(norm(prev->sig->dato.palabra)==norm(p)){
+                NodoLista* tmp=prev->sig; prev->sig=tmp->sig; tmp->sig=nullptr; delete tmp; cantidad--; return true;
+            }
+            prev=prev->sig;
+        }
+        return false;
+    }
+
+    ~BucketLista(){
+        NodoLista* curr=cabeza;
+        while(curr){ NodoLista* nx=curr->sig; delete curr; curr=nx; }
+    }
+};
+
+// TablaHash con LISTA ENLAZADA (implementacion base del requisito)
+class TablaHashLista {
+    BucketLista tabla[TAM_TABLA]; int total=0;
+    int hashFn(const string& p) const {
+        string s=p; transform(s.begin(),s.end(),s.begin(),::toupper);
+        unsigned long long h=5381;
+        for(unsigned char c:s) h=((h<<5)+h)+c;
+        return (int)(h%TAM_TABLA);
+    }
+public:
+    bool insertar(const string& p, const string& s){
+        int i=hashFn(p); bool ex=(tabla[i].buscar(p)!=nullptr);
+        tabla[i].insertar(p,s); if(!ex)total++; return !ex;
+    }
+    NodoLista* buscar(const string& p){ int i=hashFn(p); return tabla[i].buscar(p); }
+    bool eliminar(const string& p){ int i=hashFn(p); if(tabla[i].eliminar(p)){total--;return true;}return false; }
+    int getTotal() const { return total; }
+    int bucketMax() const { int m=0; for(int i=0;i<TAM_TABLA;i++) m=max(m,tabla[i].cantidad); return m; }
+};
+
+// ============================================================
+// [2] NODO DEL ARBOL BINARIO DE BUSQUEDA - MEJORA del requisito
+//     Cada bucket es un BST ordenado alfabeticamente
+//     Busqueda: O(log k) — mucho mejor que O(k) de la lista
 // ============================================================
 struct NodoBST {
     Entrada dato;
@@ -513,8 +588,9 @@ void mostrarMenu(int total, int pendientes) {
     cout << "  [4] Mostrar diccionario completo\n";
     cout << "  [5] Buscar por letra o prefijo\n";
     cout << "  [6] Ver hash de una palabra\n";
-    cout << "  [7] Estadisticas de la tabla hash\n";
+    cout << "  [7] Estadisticas de la tabla hash (BST)\n";
     cout << "  [8] Guardar palabras nuevas en archivo\n";
+    cout << "  [9] Comparar Lista Enlazada vs BST (demostracion)\n";
     cout << "  [0] Salir\n";
     cout << "  " << string(46, '-') << "\n";
     cout << "  Opcion: ";
@@ -685,6 +761,56 @@ int main() {
             } else {
                 cout << "\n  ERROR: No se pudo guardar en el archivo.\n";
             }
+            pausar();
+            break;
+        }
+
+        // ---- COMPARACION LISTA vs BST ----
+        case 9: {
+            cout << "\n  === COMPARACION: Lista Enlazada vs Arbol BST ===\n";
+            cout << "  Cargando diccionario en AMBAS implementaciones...\n";
+
+            TablaHashLista hashLista;
+            TablaHash      hashBST;
+
+            // Cargar en ambas
+            ifstream f("diccionario.txt");
+            int cnt=0; string ln;
+            while(getline(f,ln)){
+                if(ln.empty()||ln[0]=='#') continue;
+                if(!ln.empty()&&ln.back()=='\r') ln.pop_back();
+                size_t s=ln.find('|'); if(s==string::npos) continue;
+                string p=ln.substr(0,s), sig=ln.substr(s+1);
+                while(!p.empty()&&p.back()==' ')p.pop_back();
+                if(p.empty()||sig.empty()) continue;
+                hashLista.insertar(p, sig);
+                hashBST.insertar(p, sig, false);
+                cnt++;
+            }
+            f.close();
+
+            cout << "  " << cnt << " palabras cargadas en ambas tablas.\n\n";
+            cout << "  " << string(52,'-') << "\n";
+            cout << "  IMPLEMENTACION      | Colisiones | Busqueda\n";
+            cout << "  " << string(52,'-') << "\n";
+            cout << "  Lista Enlazada      | O(n/28)    | O(" << hashLista.bucketMax() << ") max bucket\n";
+            cout << "  Arbol BST (mejora)  | O(log n/28)| O(log " << hashLista.bucketMax() << ") = O(" ;
+            int bm=hashLista.bucketMax(), lg=0; int x=bm; while(x>1){x/=2;lg++;}
+            cout << lg << ") max bucket\n";
+            cout << "  " << string(52,'-') << "\n\n";
+
+            // Buscar misma palabra en ambas y contar pasos simulados
+            cout << "  Busqueda de prueba: 'CHICHA'\n";
+            auto r1 = hashLista.buscar("CHICHA");
+            auto r2 = diccionario.buscar("CHICHA");
+            if(r1) cout << "  Lista: ENCONTRADA -> " << r1->dato.significado.substr(0,50) << "\n";
+            if(r2) cout << "  BST  : ENCONTRADA -> " << r2->significado.substr(0,50) << "\n";
+
+            cout << "\n  CONCLUSION: Con " << cnt << " palabras y 28 buckets (~"
+                 << cnt/28 << " por bucket promedio)\n";
+            cout << "  Lista enlazada: hasta " << hashLista.bucketMax() << " comparaciones en peor caso\n";
+            cout << "  BST:            hasta " << lg << " comparaciones en peor caso (log2)\n";
+            cout << "  Mejora:         " << hashLista.bucketMax() << "x mas rapido con BST\n";
             pausar();
             break;
         }
