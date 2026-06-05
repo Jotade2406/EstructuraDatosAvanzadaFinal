@@ -1150,9 +1150,13 @@ int main(){
         }
     }
 
-    // ---- Musica del MENU (Mice on Venus) ----
+    // ---- Musica del MENU (Watery Graves) ----
     Music menuBgm={}; bool hasMenuBgm=false;
-    const char* menuTracks[]={"Mice on Venus.mp3","mice on venus.mp3","Mice_on_Venus.mp3"};
+    const char* menuTracks[]={
+        "Watery Graves (In-Game) - Plants vs. Zombies Soundtrack (Official) - supershigi.mp3",
+        "watery graves.mp3",
+        "Watery Graves.mp3"
+    };
     for(auto& tr:menuTracks){
         if(FileExists(tr)){
             menuBgm=LoadMusicStream(tr); menuBgm.looping=true;
@@ -1160,13 +1164,12 @@ int main(){
         }
     }
 
-    // ---- Musica del JUEGO (Euphoria) ----
+    // ---- Musica del JUEGO (Graze the Roof) ----
     Music gameBgm={}; bool hasGameBgm=false;
     const char* gameTracks[]={
-        "euphoria.mp3",
-        "all for us.mp3",
-        "euphoria  official song by labrinth & zendaya - \"all for us\" full song (s1 ep8)  HBO - euphoria.mp3",
-        "../Busqueda tesoro/euphoria  official song by labrinth & zendaya - \"all for us\" full song (s1 ep8)  HBO - euphoria.mp3"
+        "Graze the Roof (In-Game) - Laura Shigihara.mp3",
+        "graze the roof.mp3",
+        "Graze the Roof.mp3"
     };
     for(auto& tr:gameTracks){
         if(FileExists(tr)){
