@@ -1,0 +1,28 @@
+======================================
+  RUTA AL TESORO - Mundo de Shrek
+======================================
+Metodo: Exploración Manual
+
+  Paso 1: [Pantano de Shrek]
+  Pista: "El pantano de Shrek huele a cebollas y magia. Duloc al este, Worcestershire al norte."
+
+  Paso 2: [Duloc]
+  Pista: "Duloc, el reino de Lord Farquaad. La Torre de Fiona al norte. La cueva del dragon tambien."
+
+  Paso 3: [Cueva del Dragon]
+  Pista: "La Cueva del Dragon! La dragon enamorada del Asno guarda secretos del bosque."
+
+  Paso 4: [Barco Pirata]
+  Pista: "El Barco Pirata. Los piratas dicen que el bosque encantado guarda el mayor tesoro."
+
+  Paso 5: [San Lorenzo]
+  Pista: "San Lorenzo, donde vive el Gato con Botas. El barco pirata navega cerca."
+
+  Paso 6: [Barco Pirata]
+  Pista: "El Barco Pirata. Los piratas dicen que el bosque encantado guarda el mayor tesoro."
+
+  Paso 7: [Bosque Encantado]
+  Pista: "EL BOSQUE ENCANTADO! El tesoro de las hadas yace aqui, entre hongos magicos."
+
+Costo total: 33
+======================================

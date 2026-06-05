@@ -1,0 +1,28 @@
+======================================
+  RUTA AL TESORO - Euphoria
+======================================
+Metodo: Exploración Manual
+
+  Paso 1: [Bano East Highland]
+  Pista: "El bano de East Highland. Donde los secretos explotan entre las paredes mojadas. Fezco controla el flujo aqui cerca."
+
+  Paso 2: [Parque Atracciones]
+  Pista: "Parque de atracciones. Donde todo comenzo a desmoronarse en la S1. El laberinto de espejos refleja la realidad distorsionada."
+
+  Paso 3: [Laberinto Espejos]
+  Pista: "Laberinto de espejos. Donde la mente se pierde en sus propios reflejos. La locura visual de Rue hecha tangible."
+
+  Paso 4: [Casa Cassie Lexi]
+  Pista: "Casa de Cassie y Lexi. Donde la prima se esconde en el bano para colapsar silenciosamente. El caos domestico."
+
+  Paso 5: [Teatro Escuela]
+  Pista: "Teatro de la escuela. Donde Lexi expone la verdad cruda: Our Life. El espejo que nadie queria ver."
+
+  Paso 6: [Escuela Arte Jules]
+  Pista: "Escuela de arte de Jules. Donde ella intenta pintar un futuro lejos de todo. El arte como escape final."
+
+  Paso 7: [Vias Tren]
+  Pista: "VIAS DEL TREN. El puente definitivo. El lugar del quiebre original donde todo comenzo a colapsar. La unica salida. Pero no hay libertad, solo el final del viaje."
+
+Costo total: 24
+======================================

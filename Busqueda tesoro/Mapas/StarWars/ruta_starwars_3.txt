@@ -1,0 +1,28 @@
+======================================
+  RUTA AL TESORO - Galaxia Star Wars
+======================================
+Metodo: Exploración Manual
+
+  Paso 1: [Tatooine Cantina Mos Eisley]
+  Pista: "Tatooine, dos soles y arena infinita. La Cantina de Mos Eisley guarda secretos. Un cazarrecompensas susurra: los pantanos de Dagobah conocen el camino."
+
+  Paso 2: [Jedha Ruinas Ciudad Santa]
+  Pista: "Jedha, ciudad santa destruida por el Imperio. Un guardian rebelde grabo las coordenadas de la Estrella de la Muerte antes de morir entre las ruinas."
+
+  Paso 3: [Estrella de la Muerte]
+  Pista: "La Estrella de la Muerte. En el hangar de detencion un piloto rebelde grabo las coordenadas de Mustafar en el panel de control antes de ser capturado."
+
+  Paso 4: [Coruscant Nivel 1313]
+  Pista: "Coruscant, Nivel 1313. Entre contrabandistas y luces de neon hay tres rutas: las nubes de Bespin, la Estrella de la Muerte imperial, y los clones de Kamino."
+
+  Paso 5: [Bespin Ciudad Nubes]
+  Pista: "Bespin, Ciudad de las Nubes. En la mesa de Sabacc un piloto susurra las coordenadas de Ahch-To. Tambien conoce los caminos a Endor y a Dagobah."
+
+  Paso 6: [Endor Aldea Ewok]
+  Pista: "Endor, la luna de los Ewok. Celebran la caida del Imperio. Los nativos conocen rutas hacia Ahch-To y hacia las llanuras de sal de Crait."
+
+  Paso 7: [Ahch-To Templo Primer Jedi]
+  Pista: "AHCH-TO! En la cima de la isla, el Templo del Primer Jedi. El mapa estelar esta completo. Los textos sagrados del origen de la Fuerza descansan aqui."
+
+Costo total: 35
+======================================

@@ -1,0 +1,19 @@
+======================================
+  RUTA AL TESORO - Euphoria
+======================================
+Metodo: Dijkstra
+
+  Paso 1: [Bano East Highland]
+  Pista: "El bano de East Highland. Donde los secretos explotan entre las paredes mojadas. Fezco controla el flujo aqui cerca."
+
+  Paso 2: [Tienda Fezco]
+  Pista: "Tienda de Fezco. Centro de operaciones y tensión perpetua. Ashtray vigila desde las sombras."
+
+  Paso 3: [Casa Laurie]
+  Pista: "Casa de Laurie. Donde Rue arrastra su deuda masiva. La esclavitud que devora almas."
+
+  Paso 4: [Vias Tren]
+  Pista: "VIAS DEL TREN. El puente definitivo. El lugar del quiebre original donde todo comenzo a colapsar. La unica salida. Pero no hay libertad, solo el final del viaje."
+
+Costo total: 17
+======================================

@@ -1,0 +1,19 @@
+======================================
+  RUTA AL TESORO - Tierra Media
+======================================
+Metodo: Exploración Manual
+
+  Paso 1: [La Comarca]
+  Pista: "La Comarca, tu hogar hobbit. Bree al norte es tu primer paso en la gran aventura."
+
+  Paso 2: [Bree]
+  Pista: "En Bree, el Pasoso te espera. Rivendell guarda sabiduria, Moria oculta peligro."
+
+  Paso 3: [Moria]
+  Pista: "Las minas oscuras de Moria. El fuego de Mordor esta al este."
+
+  Paso 4: [Mordor]
+  Pista: "EL MONTE DOOM! El Anillo Unico sera destruido en el fuego eterno de Mordor."
+
+Costo total: 21
+======================================

@@ -1,0 +1,19 @@
+======================================
+  RUTA AL TESORO - Galaxia Star Wars
+======================================
+Metodo: Exploración Manual
+
+  Paso 1: [Tatooine Cantina Mos Eisley]
+  Pista: "Tatooine, dos soles y arena infinita. La Cantina de Mos Eisley guarda secretos. Un cazarrecompensas susurra: los pantanos de Dagobah conocen el camino."
+
+  Paso 2: [Dagobah Pantano Yoda]
+  Pista: "Dagobah. El maestro Yoda en el pantano: la lava de Mustafar guarda verdades oscuras del lado Sith. Sigue el camino luminoso de la Fuerza hacia Ahch-To."
+
+  Paso 3: [Bespin Ciudad Nubes]
+  Pista: "Bespin, Ciudad de las Nubes. En la mesa de Sabacc un piloto susurra las coordenadas de Ahch-To. Tambien conoce los caminos a Endor y a Dagobah."
+
+  Paso 4: [Ahch-To Templo Primer Jedi]
+  Pista: "AHCH-TO! En la cima de la isla, el Templo del Primer Jedi. El mapa estelar esta completo. Los textos sagrados del origen de la Fuerza descansan aqui."
+
+Costo total: 22
+======================================

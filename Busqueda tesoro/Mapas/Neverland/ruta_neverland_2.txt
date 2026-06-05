@@ -1,0 +1,19 @@
+======================================
+  RUTA AL TESORO - Neverland
+======================================
+Metodo: BFS
+
+  Paso 1: [Playa del Desembarco]
+  Pista: "La arena dorada te recibe. El barco pirata al norte, el cabo de palo al noroeste."
+
+  Paso 2: [El Jolly Roger]
+  Pista: "El Jolly Roger cruje. Las sirenas conocen el secreto de la roca calavera. Sigue sus voces."
+
+  Paso 3: [Laguna de las Sirenas]
+  Pista: "Las sirenas cantan: solo los valientes alcanzan la roca calavera. El lago queda al sur."
+
+  Paso 4: [Roca Calavera]
+  Pista: "ENCONTRASTE EL TESORO! Bajo el ojo de la calavera yace el cofre del gran pirata."
+
+Costo total: 15
+======================================

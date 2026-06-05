@@ -1,0 +1,172 @@
+======================================
+  RUTA AL TESORO - Euphoria
+======================================
+Metodo: Exploración Manual
+
+  Paso 1: [Bano East Highland]
+  Pista: "El bano de East Highland. Donde los secretos explotan entre las paredes mojadas. Fezco controla el flujo aqui cerca."
+
+  Paso 2: [Parque Atracciones]
+  Pista: "Parque de atracciones. Donde todo comenzo a desmoronarse en la S1. El laberinto de espejos refleja la realidad distorsionada."
+
+  Paso 3: [Laberinto Espejos]
+  Pista: "Laberinto de espejos. Donde la mente se pierde en sus propios reflejos. La locura visual de Rue hecha tangible."
+
+  Paso 4: [Casa Cassie Lexi]
+  Pista: "Casa de Cassie y Lexi. Donde la prima se esconde en el bano para colapsar silenciosamente. El caos domestico."
+
+  Paso 5: [Teatro Escuela]
+  Pista: "Teatro de la escuela. Donde Lexi expone la verdad cruda: Our Life. El espejo que nadie queria ver."
+
+  Paso 6: [Escuela Arte Jules]
+  Pista: "Escuela de arte de Jules. Donde ella intenta pintar un futuro lejos de todo. El arte como escape final."
+
+  Paso 7: [Teatro Escuela]
+  Pista: "Teatro de la escuela. Donde Lexi expone la verdad cruda: Our Life. El espejo que nadie queria ver."
+
+  Paso 8: [Casa Cassie Lexi]
+  Pista: "Casa de Cassie y Lexi. Donde la prima se esconde en el bano para colapsar silenciosamente. El caos domestico."
+
+  Paso 9: [Laberinto Espejos]
+  Pista: "Laberinto de espejos. Donde la mente se pierde en sus propios reflejos. La locura visual de Rue hecha tangible."
+
+  Paso 10: [Parque Atracciones]
+  Pista: "Parque de atracciones. Donde todo comenzo a desmoronarse en la S1. El laberinto de espejos refleja la realidad distorsionada."
+
+  Paso 11: [Centro Comercial]
+  Pista: "Centro comercial. Donde Cassie y Maddy evadian sus miserias con ropa cara. Ahora solo queda el vacio."
+
+  Paso 12: [Casa Maddy]
+  Pista: "Casa de Maddy. Donde ella juega de madre entre sus secretos. Los vestidos caros no tapan el vacio."
+
+  Paso 13: [Centro Comercial]
+  Pista: "Centro comercial. Donde Cassie y Maddy evadian sus miserias con ropa cara. Ahora solo queda el vacio."
+
+  Paso 14: [Agencia Hollywood]
+  Pista: "Agencia de talentos en Hollywood. Donde Maddy construye su futuro entre ilusiones. El brillo que oculta el dolor."
+
+  Paso 15: [Centro Comercial]
+  Pista: "Centro comercial. Donde Cassie y Maddy evadian sus miserias con ropa cara. Ahora solo queda el vacio."
+
+  Paso 16: [Parque Atracciones]
+  Pista: "Parque de atracciones. Donde todo comenzo a desmoronarse en la S1. El laberinto de espejos refleja la realidad distorsionada."
+
+  Paso 17: [Laberinto Espejos]
+  Pista: "Laberinto de espejos. Donde la mente se pierde en sus propios reflejos. La locura visual de Rue hecha tangible."
+
+  Paso 18: [Casa Cassie Lexi]
+  Pista: "Casa de Cassie y Lexi. Donde la prima se esconde en el bano para colapsar silenciosamente. El caos domestico."
+
+  Paso 19: [Teatro Escuela]
+  Pista: "Teatro de la escuela. Donde Lexi expone la verdad cruda: Our Life. El espejo que nadie queria ver."
+
+  Paso 20: [Escuela Arte Jules]
+  Pista: "Escuela de arte de Jules. Donde ella intenta pintar un futuro lejos de todo. El arte como escape final."
+
+  Paso 21: [Teatro Escuela]
+  Pista: "Teatro de la escuela. Donde Lexi expone la verdad cruda: Our Life. El espejo que nadie queria ver."
+
+  Paso 22: [Casa Cassie Lexi]
+  Pista: "Casa de Cassie y Lexi. Donde la prima se esconde en el bano para colapsar silenciosamente. El caos domestico."
+
+  Paso 23: [Laberinto Espejos]
+  Pista: "Laberinto de espejos. Donde la mente se pierde en sus propios reflejos. La locura visual de Rue hecha tangible."
+
+  Paso 24: [Parque Atracciones]
+  Pista: "Parque de atracciones. Donde todo comenzo a desmoronarse en la S1. El laberinto de espejos refleja la realidad distorsionada."
+
+  Paso 25: [Centro Comercial]
+  Pista: "Centro comercial. Donde Cassie y Maddy evadian sus miserias con ropa cara. Ahora solo queda el vacio."
+
+  Paso 26: [Parque Atracciones]
+  Pista: "Parque de atracciones. Donde todo comenzo a desmoronarse en la S1. El laberinto de espejos refleja la realidad distorsionada."
+
+  Paso 27: [Centro Comercial]
+  Pista: "Centro comercial. Donde Cassie y Maddy evadian sus miserias con ropa cara. Ahora solo queda el vacio."
+
+  Paso 28: [Agencia Hollywood]
+  Pista: "Agencia de talentos en Hollywood. Donde Maddy construye su futuro entre ilusiones. El brillo que oculta el dolor."
+
+  Paso 29: [Centro Comercial]
+  Pista: "Centro comercial. Donde Cassie y Maddy evadian sus miserias con ropa cara. Ahora solo queda el vacio."
+
+  Paso 30: [Casa Maddy]
+  Pista: "Casa de Maddy. Donde ella juega de madre entre sus secretos. Los vestidos caros no tapan el vacio."
+
+  Paso 31: [Centro Comercial]
+  Pista: "Centro comercial. Donde Cassie y Maddy evadian sus miserias con ropa cara. Ahora solo queda el vacio."
+
+  Paso 32: [Parque Atracciones]
+  Pista: "Parque de atracciones. Donde todo comenzo a desmoronarse en la S1. El laberinto de espejos refleja la realidad distorsionada."
+
+  Paso 33: [Bano East Highland]
+  Pista: "El bano de East Highland. Donde los secretos explotan entre las paredes mojadas. Fezco controla el flujo aqui cerca."
+
+  Paso 34: [Motel Cal Jules]
+  Pista: "Motel de citas. Donde Cal y Jules perpetuaban sus crimenes. Las paredes guardan traumas irrecuperables."
+
+  Paso 35: [Campo Futbol]
+  Pista: "Campo de futbol. Territorio de McKay y sus traumas de rendimiento. El sacrificio pesa sobre cada atardecer."
+
+  Paso 36: [Casa Nate]
+  Pista: "Casa de Nate. Donde la toxicidad permea cada habitacion con su padre. La prisión de su propia sangre."
+
+  Paso 37: [Campo Futbol]
+  Pista: "Campo de futbol. Territorio de McKay y sus traumas de rendimiento. El sacrificio pesa sobre cada atardecer."
+
+  Paso 38: [Motel Cal Jules]
+  Pista: "Motel de citas. Donde Cal y Jules perpetuaban sus crimenes. Las paredes guardan traumas irrecuperables."
+
+  Paso 39: [Habitacion Rue]
+  Pista: "La habitacion de Rue. Donde la adiccion consume cada respiro. Las luces rojas pulsean como un latido moribundo."
+
+  Paso 40: [Iglesia Alucinacion]
+  Pista: "Iglesia de la alucinacion. Donde Rue abraza a Labrinth en su mente. El ultimo refugio antes del abismo."
+
+  Paso 41: [Habitacion Rue]
+  Pista: "La habitacion de Rue. Donde la adiccion consume cada respiro. Las luces rojas pulsean como un latido moribundo."
+
+  Paso 42: [Motel Cal Jules]
+  Pista: "Motel de citas. Donde Cal y Jules perpetuaban sus crimenes. Las paredes guardan traumas irrecuperables."
+
+  Paso 43: [Campo Futbol]
+  Pista: "Campo de futbol. Territorio de McKay y sus traumas de rendimiento. El sacrificio pesa sobre cada atardecer."
+
+  Paso 44: [Casa Nate]
+  Pista: "Casa de Nate. Donde la toxicidad permea cada habitacion con su padre. La prisión de su propia sangre."
+
+  Paso 45: [Campo Futbol]
+  Pista: "Campo de futbol. Territorio de McKay y sus traumas de rendimiento. El sacrificio pesa sobre cada atardecer."
+
+  Paso 46: [Motel Cal Jules]
+  Pista: "Motel de citas. Donde Cal y Jules perpetuaban sus crimenes. Las paredes guardan traumas irrecuperables."
+
+  Paso 47: [Bano East Highland]
+  Pista: "El bano de East Highland. Donde los secretos explotan entre las paredes mojadas. Fezco controla el flujo aqui cerca."
+
+  Paso 48: [Tienda Fezco]
+  Pista: "Tienda de Fezco. Centro de operaciones y tensión perpetua. Ashtray vigila desde las sombras."
+
+  Paso 49: [Casa Laurie]
+  Pista: "Casa de Laurie. Donde Rue arrastra su deuda masiva. La esclavitud que devora almas."
+
+  Paso 50: [Tienda Fezco]
+  Pista: "Tienda de Fezco. Centro de operaciones y tensión perpetua. Ashtray vigila desde las sombras."
+
+  Paso 51: [Bano East Highland]
+  Pista: "El bano de East Highland. Donde los secretos explotan entre las paredes mojadas. Fezco controla el flujo aqui cerca."
+
+  Paso 52: [Parque Atracciones]
+  Pista: "Parque de atracciones. Donde todo comenzo a desmoronarse en la S1. El laberinto de espejos refleja la realidad distorsionada."
+
+  Paso 53: [Centro Comercial]
+  Pista: "Centro comercial. Donde Cassie y Maddy evadian sus miserias con ropa cara. Ahora solo queda el vacio."
+
+  Paso 54: [Agencia Hollywood]
+  Pista: "Agencia de talentos en Hollywood. Donde Maddy construye su futuro entre ilusiones. El brillo que oculta el dolor."
+
+  Paso 55: [Vias Tren]
+  Pista: "VIAS DEL TREN. El puente definitivo. El lugar del quiebre original donde todo comenzo a colapsar. La unica salida. Pero no hay libertad, solo el final del viaje."
+
+Costo total: 248
+======================================

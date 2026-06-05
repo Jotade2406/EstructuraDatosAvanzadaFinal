@@ -1,0 +1,48 @@
+NODOS 20
+0 Bano_East_Highland
+1 Parque_Atracciones
+2 Motel_Cal_Jules
+3 Habitacion_Rue
+4 Laberinto_Espejos
+5 Centro_Comercial
+6 Campo_Futbol
+7 Tienda_Fezco
+8 Casa_Cassie_Lexi
+9 Teatro_Escuela
+10 Casa_Fezco
+11 Casa_Maddy
+12 Casa_Nate
+13 Iglesia_Alucinacion
+14 Casa_Laurie
+15 Agencia_Hollywood
+16 Escuela_Arte_Jules
+17 Terreno_Construccion
+18 Casa_Familia_Texas
+19 Vias_Tren TESORO
+
+ARISTAS
+0 1 3
+0 2 5
+0 7 6
+1 4 2
+1 5 4
+2 3 3
+2 6 7
+3 13 5
+4 8 4
+5 11 3
+5 15 8
+6 12 5
+7 10 2
+7 14 6
+8 9 3
+9 16 4
+10 17 5
+11 18 7
+12 19 4
+13 19 6
+14 19 5
+15 19 9
+16 19 8
+17 19 6
+18 19 4

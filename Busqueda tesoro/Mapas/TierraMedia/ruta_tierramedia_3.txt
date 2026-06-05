@@ -1,0 +1,49 @@
+======================================
+  RUTA AL TESORO - Tierra Media
+======================================
+Metodo: Exploración Manual
+
+  Paso 1: [La Comarca]
+  Pista: "La Comarca, tu hogar hobbit. Bree al norte es tu primer paso en la gran aventura."
+
+  Paso 2: [Fangorn]
+  Pista: "Los Ents de Fangorn marchan. Rohan al sur, el camino a Mordor."
+
+  Paso 3: [Isengard]
+  Pista: "Isengard cayo. Los Ents de Fangorn marchan al este contigo."
+
+  Paso 4: [Abismo de Helm]
+  Pista: "Los jinetes de Rohan van a Minas Tirith y luego al este oscuro."
+
+  Paso 5: [Rohan]
+  Pista: "Rohan, tierra de jinetes. Minas Tirith al este busca tu ayuda."
+
+  Paso 6: [Minas Tirith]
+  Pista: "Minas Tirith, la ciudad blanca. Mordor esta al este de las montanas."
+
+  Paso 7: [Rohan]
+  Pista: "Rohan, tierra de jinetes. Minas Tirith al este busca tu ayuda."
+
+  Paso 8: [Fangorn]
+  Pista: "Los Ents de Fangorn marchan. Rohan al sur, el camino a Mordor."
+
+  Paso 9: [La Comarca]
+  Pista: "La Comarca, tu hogar hobbit. Bree al norte es tu primer paso en la gran aventura."
+
+  Paso 10: [Bree]
+  Pista: "En Bree, el Pasoso te espera. Rivendell guarda sabiduria, Moria oculta peligro."
+
+  Paso 11: [Rivendell]
+  Pista: "Los elfos de Rivendell: el Anillo debe ir al fuego de Mordor. Lothlorien te guia."
+
+  Paso 12: [Lothlorien]
+  Pista: "En el Bosque Dorado, Galadriel susurra: Solo el fuego puede destruirlo."
+
+  Paso 13: [Amon Hen]
+  Pista: "En Amon Hen escuchaste el llamado del Anillo. El fuego de Mordor espera."
+
+  Paso 14: [Mordor]
+  Pista: "EL MONTE DOOM! El Anillo Unico sera destruido en el fuego eterno de Mordor."
+
+Costo total: 65
+======================================

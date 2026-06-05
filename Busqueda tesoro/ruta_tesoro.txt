@@ -1,0 +1,24 @@
+================================================
+  EL TESORO DEL PIRATA - Ruta Encontrada
+================================================
+
+Metodo de busqueda: Exploracion Manual
+
+Camino al tesoro:
+
+  Paso 1: [Playa del Desembarco]
+  Paso 2: [El Jolly Roger]
+  Paso 3: [Laguna de las Sirenas]
+  Paso 4: [Lago Interior]
+  Paso 5: [Guarida de Perdidos]
+  Paso 6: [Campamento Indio]
+  Paso 7: [El Arbol Colgante]
+  Paso 8: [Montanas Nevadas]
+  Paso 9: [Lago Interior]
+  Paso 10: [Cala Canibal]
+  Paso 11: [Lago Interior]
+  Paso 12: [Montanas Nevadas]
+  Paso 13: [Roca Calavera]
+Costo total: 55 leguas
+
+================================================

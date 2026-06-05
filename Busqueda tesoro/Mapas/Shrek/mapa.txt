@@ -1,0 +1,31 @@
+NODOS 12
+0 Pantano_de_Shrek
+1 Duloc
+2 Torre_de_Fiona
+3 Far_Far_Away
+4 Cueva_del_Dragon
+5 Bosque_Encantado TESORO
+6 Worcestershire
+7 Jack_Horner_Factory
+8 San_Lorenzo
+9 Mama_Lunas_House
+10 Giant_Bean
+11 Barco_Pirata
+
+ARISTAS
+0 1 5
+0 6 4
+0 7 6
+1 2 5
+1 4 7
+2 3 4
+2 5 8
+3 9 5
+3 10 6
+4 11 4
+6 9 6
+7 8 3
+8 11 5
+9 10 4
+10 5 5
+11 5 7

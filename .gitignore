@@ -1,0 +1,11 @@
+# Ejecutables compilados
+*.exe
+*.o
+*.a
+
+# Archivos temporales
+err.txt
+out.txt
+
+# IDE
+.vscode/

@@ -1,0 +1,34 @@
+======================================
+  RUTA AL TESORO - Neverland
+======================================
+Metodo: Exploración Manual
+
+  Paso 1: [Playa del Desembarco]
+  Pista: "La arena dorada te recibe. El barco pirata al norte, el cabo de palo al noroeste."
+
+  Paso 2: [Punto Cojituerto]
+  Pista: "Sirenas al norte, el cocodrilo al este hace tictac..."
+
+  Paso 3: [Arroyo del Cocodrilo]
+  Pista: "El cocodrilo te observa. Tictac, tictac. La calavera de roca esta muy cerca, pirata."
+
+  Paso 4: [Guarida de Perdidos]
+  Pista: "Los ninos perdidos: el lago conecta toda la isla. Puedes ir a cualquier lugar."
+
+  Paso 5: [Lago Interior]
+  Pista: "El Lago Interior, corazon de Neverland. La roca calavera esta al norte."
+
+  Paso 6: [Cala Canibal]
+  Pista: "Cala Canibal es peligrosa. Huye al lago interior rapidamente."
+
+  Paso 7: [El Jolly Roger]
+  Pista: "El Jolly Roger cruje. Las sirenas conocen el secreto de la roca calavera. Sigue sus voces."
+
+  Paso 8: [Laguna de las Sirenas]
+  Pista: "Las sirenas cantan: solo los valientes alcanzan la roca calavera. El lago queda al sur."
+
+  Paso 9: [Roca Calavera]
+  Pista: "ENCONTRASTE EL TESORO! Bajo el ojo de la calavera yace el cofre del gran pirata."
+
+Costo total: 40
+======================================

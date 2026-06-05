@@ -1,0 +1,19 @@
+======================================
+  RUTA AL TESORO - Mundo de Shrek
+======================================
+Metodo: Dijkstra
+
+  Paso 1: [Pantano de Shrek]
+  Pista: "El pantano de Shrek huele a cebollas y magia. Duloc al este, Worcestershire al norte."
+
+  Paso 2: [Duloc]
+  Pista: "Duloc, el reino de Lord Farquaad. La Torre de Fiona al norte. La cueva del dragon tambien."
+
+  Paso 3: [Torre de Fiona]
+  Pista: "Torre de la Princesa. Fiona espera. Far Far Away al norte. El bosque encantado al este..."
+
+  Paso 4: [Bosque Encantado]
+  Pista: "EL BOSQUE ENCANTADO! El tesoro de las hadas yace aqui, entre hongos magicos."
+
+Costo total: 18
+======================================

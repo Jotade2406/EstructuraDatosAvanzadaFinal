@@ -1,0 +1,22 @@
+======================================
+  RUTA AL TESORO - Mundo de Shrek
+======================================
+Metodo: Exploración Manual
+
+  Paso 1: [Pantano de Shrek]
+  Pista: "El pantano de Shrek huele a cebollas y magia. Duloc al este, Worcestershire al norte."
+
+  Paso 2: [Worcestershire]
+  Pista: "Worcestershire, pueblo tranquilo. Mama Luna conoce los caminos del bosque encantado."
+
+  Paso 3: [Mama Lunas House]
+  Pista: "Mama Luna sabe cosas. Giant Bean al este, camino al bosque encantado."
+
+  Paso 4: [Giant Bean]
+  Pista: "La Giant Bean sube hasta las nubes. El bosque encantado esta justo al oeste."
+
+  Paso 5: [Bosque Encantado]
+  Pista: "EL BOSQUE ENCANTADO! El tesoro de las hadas yace aqui, entre hongos magicos."
+
+Costo total: 19
+======================================
