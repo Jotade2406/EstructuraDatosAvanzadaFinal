@@ -53,7 +53,7 @@ const char*MUSIC_FILES[6]={
     "Lord of the Rings Main Theme - Only best part - Gustav Rauhala.mp3",
     "Smash Mouth - All Star - SmashMouthVEVO.mp3",
     "Star Wars Main Theme (Full) - Coltsrock56.mp3",
-    "euphoria official song.mp3"
+    "Labrinth - Mount Everest (Official Video) - LabrinthVEVO.mp3"
 };
 
 // ============================================================
