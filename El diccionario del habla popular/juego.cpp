@@ -229,7 +229,7 @@ struct Tile {
 };
 
 enum Scr { SC_MENU, SC_GAME, SC_DICT, SC_DESC, SC_OVER, SC_WIN };
-const int WIN_SCORE = 2000; // puntos para ganar
+const int WIN_SCORE = 20000; // puntos para ganar
 
 struct WordEntry { string palabra; int pts; string def; };
 
